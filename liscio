@@ -34,6 +34,7 @@ nomeM -> "Marco"
 	  | "Andrea"
 	  | "Chicco"
 	  | "Gianni"
+	  | "Sandro"
 	  
 nomeF -> "Marika"
        | "Marisa"
