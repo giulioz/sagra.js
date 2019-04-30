@@ -2,6 +2,8 @@
 Generates ballo liscio orchestras names.
 Still in beta, PR welcome.
 
+No offence intended to Liscio musicians.
+
 ### Usage:
 ```
 yarn
@@ -10,7 +12,7 @@ yarn gen
 ```
 
 ### Example:
-````
+```
 Orchestra Massimo & i Diapason Group
 Orchestra Marisa e Michela Band
 Orchestra Carlo e Alida & i Totem Group
