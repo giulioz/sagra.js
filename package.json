@@ -1,0 +1,13 @@
+{
+  "name": "lisciog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nearley": "^2.16.0"
+  },
+  "scripts": {
+    "compile": "nearleyc liscio -o liscio.js",
+    "gen": "nearley-unparse -n 100 liscio.js"
+  }
+}
