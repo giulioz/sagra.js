@@ -57,6 +57,7 @@ nomeF -> "Marika"
 	   | "Zena"
 	   | "Gabriella"
 	   | "Marianna"
+	   | "Alice"
 	  
 ei -> e " i Clan"
     | e " le Vibrazioni"
